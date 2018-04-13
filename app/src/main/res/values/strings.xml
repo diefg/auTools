@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tools</string>
+    <string name="estadowifiOn">On</string>
+    <string name="estadowifiOff">Off</string>
+    <string name="labelEstado">Estado de Wifi</string>
+    <string name="btnSalir">Salir</string>
+    <string name="stringToast">No intentes romper la app!!!!</string>
+    <string name="toastError1">No intentes romper la app! el wifi se restauró a al estado del boton</string>
+
+</resources>
